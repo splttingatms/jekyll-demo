@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Nursery Rhymes is *the* destination for all nursery rhyme information. We have the
+lyrics for the most popular nursery rhymes, lullabies, and children songs.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+## Who are we?
+We are a talented group of individuals dedicated to spreading the joy of nursery rhymes
+to the masses.  
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+The team is composed of people from industry, including the talented child music
+band, Kid Wonders.
+
+## Why the site?
+Our team believes in the good value that nursery rhymes provide and are dedicated
+to sharing this joy to the world. We will not sleep until everyone has heard at
+least one of the many rhymes we have published.
+
+## No seriously, why the site?
+This site is a demonstration of the static site generator, [Jekyll](http://jekyllrb.com/).
