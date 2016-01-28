@@ -1,0 +1,45 @@
+{
+	"folders":
+ 	[
+		{
+			"follow_symlinks": true,
+			"path": "D:\\Projects\\jekyll-demo"
+		}
+	],
+
+	"settings":
+	{
+		"Jekyll":
+		{
+			// https://packagecontrol.io/packages/Jekyll
+			"posts_path": "D:\\Projects\\jekyll-demo\\_posts",
+			"drafts_path": "D:\\Projects\\jekyll-demo\\_drafts",
+
+			// This string value should represent the default layout for new posts.
+			"default_post_layout": "post",
+
+			// This value should represent the default categories for new posts.
+			// Each category should be entered as a list item in string format
+			// with commas separating values ["cat1", "cat2"]. To remove this key
+			// from your front-matter completely, pass a value of `null`.
+			"default_post_categories": null,
+
+			// This value should represent the default tags for new posts.
+			// Each tag should be entered as a list item in string format
+			// with commas separating values ["tag1", "tag2"]. To remove this key
+			// from your front-matter completely, pass a value of `null`.
+			"default_post_tags": null,
+
+			// A boolean specifying if you want new posts to be marked as published.
+			// To remove this key from your front-matter completely, pass a value of `null`.
+			"default_post_published": null,
+
+			// If you need to add additional front-matter `key: value` information to
+			// your posts, you can store them in a dictionary object using a format
+			// like {"foo": "bar", "baz": "qux"}. This dictionary will be appended to
+			// any of the enabled default keys above (Reminder: the `title` and `layout`
+			// keys will always be included, so **DO NOT** include them in the extras dictionary).
+			"default_post_extras": null,
+		}
+	}
+}
