@@ -3,9 +3,8 @@ layout: post
 title:  "Wheels on the Bus"
 date:   2016-01-15 00:00:00 -0800
 categories: nursery rhyme lyrics
+cover: images/wheels-on-the-bus.png
 ---
-![A bus]({{ site.baseurl }}/images/wheels-on-the-bus.png "Wheels on the Bus")
-
 The wheels on the bus go round and round.  
 round and round.  
 round and round.  

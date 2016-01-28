@@ -3,9 +3,8 @@ layout: post
 title:  "Mary Had a Little Lamb"
 date:   2016-01-16 01:00:00 -0800
 categories: nursery rhyme lyrics
+cover: images/mary-had-a-little-lamb.jpg
 ---
-![Mary Had a Little Lamb illustration]({{ site.baseurl }}/images/mary-had-a-little-lamb.jpg "Mary Had a Little Lamb illustration")
-
 Mary had a little lamb,  
 His fleece was white as snow,  
 And everywhere that Mary went,  

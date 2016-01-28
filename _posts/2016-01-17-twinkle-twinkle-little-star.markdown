@@ -3,9 +3,8 @@ layout: post
 title: "Twinkle Twinkle Little Star"
 date: 2016-01-17 03:00:00 -0800
 categories: nursery rhyme lyrics
+cover: images/twinkle-twinkle.gif
 ---
-![Twinkle Twinkle Little Star illustration]({{ site.baseurl }}/images/twinkle-twinkle.gif "Twinkle Twinkle Little Star illustration")
-
 Twinkle, twinkle, little star,  
 How I wonder what you are!  
 Up above the world so high,  
